@@ -10,11 +10,11 @@ A basic calculator application created using HTML, CSS, and JavaScript. This cal
 Features:
 
 ```
-1. Addition
-1. Subtraction
-1. Multiplication
-1. Division
-1. AC (All Clear) button to reset the input field
+-> Addition
+-> Subtraction
+-> Multiplication
+-> Division
+-> AC (All Clear) button to reset the input field
 ```
 
 Usage:
