@@ -2,7 +2,8 @@
 ![Screenshot (246)](https://github.com/furyvinay/cloudVandana/assets/82074933/15d4edbc-4e3e-4ac0-93b7-c8e36a6f5392)
 
 link: https://calculator2557.netlify.app/
-Description
+
+Description:
 A basic calculator application created using HTML, CSS, and JavaScript. This calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 Features:
