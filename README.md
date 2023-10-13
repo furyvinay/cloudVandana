@@ -8,15 +8,17 @@ Description:
 A basic calculator application created using HTML, CSS, and JavaScript. This calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 Features:
+
 ```
--> Addition
--> Subtraction
--> Multiplication
--> Division
--> AC (All Clear) button to reset the input field
+1. Addition
+1. Subtraction
+1. Multiplication
+1. Division
+1. AC (All Clear) button to reset the input field
 ```
 
 Usage:
+
 ```
 -> Enter numbers and operators by clicking the buttons.
 -> Use the "AC" button to clear the input field.
@@ -24,6 +26,7 @@ Usage:
 ```
 
 Technologies Used:
+
 ```
 -> HTML
 -> CSS
@@ -40,6 +43,7 @@ Technologies Used:
 link: https://surveyform2557.netlify.app/
 
 Description:
+
 ```
 -> A survey form created with HTML and CSS, featuring input fields for collecting user data. 
 -> The form includes fields for First Name, Last Name, Date of Birth, Country, Gender, Profession, Email, and Mobile Number. 
@@ -47,6 +51,7 @@ Description:
 ```
 
 Features:
+
 ```
 -> Collects user information, including personal details and contact information.
 -> Validates input fields and ensures all required information is provided.
@@ -54,6 +59,7 @@ Features:
 ```
 
 Usage:
+
 ```
 -> Complete all the required fields in the form.
 -> Click the "Submit" button to submit the form.
