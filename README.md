@@ -4,6 +4,7 @@
 link: https://calculator2557.netlify.app/
 
 Description:
+
 A basic calculator application created using HTML, CSS, and JavaScript. This calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 Features:
@@ -23,8 +24,11 @@ Usage:
 Technologies Used:
 
 -> HTML
+
 -> CSS
+
 -> JavaScript
+
 
 
 
@@ -36,6 +40,7 @@ Technologies Used:
 link: https://surveyform2557.netlify.app/
 
 Description:
+
 -> A survey form created with HTML and CSS, featuring input fields for collecting user data. 
 -> The form includes fields for First Name, Last Name, Date of Birth, Country, Gender, Profession, Email, and Mobile Number. 
 -> The form validates user input and displays the collected data in a popup after submission.
@@ -54,7 +59,11 @@ Usage:
 Technologies Used:
 
 -> HTML
+
 -> CSS
+
 -> JavaScript (for validation and popup display)
+
 -> If any fields are missing or contain invalid data, the form will provide feedback.
+
 -> After successful submission, a popup will display the collected data.
