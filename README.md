@@ -1,8 +1,7 @@
+# Calculator
 ![Screenshot (246)](https://github.com/furyvinay/cloudVandana/assets/82074933/15d4edbc-4e3e-4ac0-93b7-c8e36a6f5392)
 
 link: https://calculator2557.netlify.app/
-
-# Calculator
 Description
 A basic calculator application created using HTML, CSS, and JavaScript. This calculator allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
@@ -26,16 +25,14 @@ Technologies Used:
 -> CSS
 -> JavaScript
 
-# # # # # # # # 
 
-# # # # # # # #
 
+
+# Survey Form:
 
 ![surveyForm](https://github.com/furyvinay/cloudVandana/assets/82074933/46828225-5f0a-447b-81e2-e7d52e8ad7bd)
 
 link: https://surveyform2557.netlify.app/
-
-# Survey Form:
 
 Description:
 -> A survey form created with HTML and CSS, featuring input fields for collecting user data. 
