@@ -1,16 +1,31 @@
 function appendToDisplay(value) {
-    document.getElementById('display').value += value;
+    const display = document.getElementById('display');
+    const currentValue = display.value;
+    const lastCharacter = currentValue[currentValue.length - 1];
+    
+    if (/[-+*÷]/.test(lastCharacter) && /[-+*÷]/.test(value)) {
+
+        display.value = currentValue.slice(0, -1) + value;
+    } else {
+        display.value += value;
+    }
 }
+
 
 function clearDisplay() {
     document.getElementById('display').value = '';
 }
 
 function calculateResult() {
+    const display = document.getElementById('display');
+    const expression = display.value;
+
     try {
-        const result = eval(document.getElementById('display').value);
-        document.getElementById('display').value = result;
+        const evalExpression = expression.replace(/÷/g, '/');
+        const result = eval(evalExpression);
+
+        display.value = result;
     } catch (error) {
-        document.getElementById('display').value = 'Error';
+        display.value = 'Error';
     }
 }
